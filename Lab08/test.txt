@@ -1,1 +1,1 @@
-'Write-Host \"You've found me!\"'
+Write-Host "You've found me!"
